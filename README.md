@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - **Telegram**: [@erfan_mhamadi](https://t.me/erfan_mhamadi)
 
 # 📂 My Specialties:
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
     <div style="text-align: center;">
         <img src="https://github.com/user-attachments/assets/e31b3b34-7eca-432a-8f43-0b69d47440d5" alt="Python" width="50"/>
         <p style="margin-top: 5px; font-size: 12px;">Python</p>
