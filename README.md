@@ -1,6 +1,6 @@
 
 
-<img style="width:50%;border-radius:20px;" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img style="width:90%;border-radius:20px;" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 #  🚀 About Me:
 - 👋 Hi, I’m @erfanmohamadnabi
