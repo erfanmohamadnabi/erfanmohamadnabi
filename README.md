@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - telegram : https://t.me/erfan_mhamadi
 
 
-# 📂 My Specialties:
+# 📂 Skills:
 <div style="display: flex;align-items: center;justify-content: center;gap: 50px;">
         <img src="https://github.com/user-attachments/assets/e31b3b34-7eca-432a-8f43-0b69d47440d5" alt="Python" width="50"/>  
         <img src="https://github.com/user-attachments/assets/d53b5390-f93f-4a99-bd26-e8e6aa2e3a96" alt="Django" width="50"/>  
