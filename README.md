@@ -4,7 +4,7 @@
 
 #  🚀 About Me:
 - 👋 Hi, I’m @erfanmohamadnabi
-- 🚀 I am a programmer and Python expert
+- 🚀 I am a programmer and Backend developer
 - 🌱 I am a Django framework developer
 - 📂 I love my work and I try to learn more every day
 
