@@ -2,11 +2,11 @@
 
 <img style="width:90%;border-radius:20px;" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-#  🚀 About Me:
-- 👋 Hi, I’m @erfanmohamadnabi
-- 🚀 I am a programmer and Backend developer
-- 🌱 I am a Django framework developer
-- 📂 I love my work and I try to learn more every day
+#  About Me:
+-  Hi, I’m @erfanmohamadnabi
+-  I am a programmer and Backend developer
+-  I am a Django framework developer
+-  I love my work and I try to learn more every day
 
 <!---
 erfanmohamadnabi/erfanmohamadnabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
