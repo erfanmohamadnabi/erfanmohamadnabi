@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 🌐 Socials:
-- web-site : https://mr-python.ir/
+- web-site : https://erfan-dev.vercel.app/
 - telegram : https://t.me/erfan_mhamadi
 
 
